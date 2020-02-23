@@ -1,0 +1,6 @@
+classes= 1
+train = ../train/object_train.txt
+valid = ../train/object_val.txt
+names = ../train/yolo3_object.names
+backup = ../train/backup/
+
